@@ -1,0 +1,66 @@
+id,categoria,nombre,descripcion,opciones_tamanos,precio,stock,foto,observacion
+OSK-001,Sushi Burgers,Sushi Burger Carnívora,"Carne de res, cebollín, queso crema y palta en panko.",,"$9,500",sí,,
+OSK-002,Sushi Burgers,Sushi Burger Camarón Furay,"Camarón en panko, cebollín, queso crema y palta en panko.",,"$10,000",sí,,
+OSK-003,Sushi Burgers,Sushi Burger Pollo Furay,"Pollo en panko, cebollín, queso crema y palta en panko.",,"$9,000",sí,,
+OSK-004,Sushi Burgers,Sushi Burger Vegetariana,"Champiñón, pimentón, cebollín, queso crema y palta en panko.",,"$8,000",sí,,
+OSK-005,Sushi Burgers,Sushi Burger Proteína a elección,"Proteína a elección, cebollín, queso crema, choclo y palta en panko.",Pollo panko / pollo teriyaki / camarón panko / camarón flameado,"$10,000",sí,,
+OSK-006,Rolls Premium,Ceviche Rolls,"Ceviche mixto sobre roll frito en panko, relleno de camarón en panko y palta.",,"$10,000",sí,,
+OSK-007,Rolls Premium,Pulpo al Olivo Rolls,"Pulpo en salsa de olivas sobre roll frito en panko, relleno de camarón, palta y pepino.",,"$10,000",sí,,
+OSK-008,Rolls Premium,Tropical Rolls,"Salsa de piña sobre roll frito en panko, relleno de pollo en panko, queso crema y mango.",,"$8,500",sí,,
+OSK-009,Rolls Premium,Mexican Rolls,"Guacamole sobre roll frito en tempura, relleno de carne, pepino y cebollín, con nachos.",,"$9,000",sí,,
+OSK-010,Rolls Premium,Lomo Salteado,"Tomate cherry, cebolla morada y papa hilo sobre roll frito en panko, relleno de lomo, pimentón y queso crema.",,"$10,000",sí,,
+OSK-011,Rolls Premium,Acevichado Rolls,"Salsa acevichada sobre roll envuelto en salmón, relleno de camarón furay, palta y queso crema.",,"$9,500",sí,,
+OSK-012,Rolls Premium,Colombian Rolls,"Roll relleno de lomo, palta y queso crema, envuelto en plátano maduro.",,"$9,500",sí,,
+OSK-013,Tablas,Tabla 10 cortes,Tabla de sushi a elección según combinaciones disponibles.,"Proteínas, verduras y envolturas a elección","$6,000",sí,,La carta no define cantidad de variedades ni reglas de selección por tabla. Confirmar antes de vender online.
+OSK-014,Tablas,Tabla 20 cortes,Tabla de sushi a elección según combinaciones disponibles.,"Proteínas, verduras y envolturas a elección","$11,000",sí,,La carta no define cantidad de variedades ni reglas de selección por tabla. Confirmar antes de vender online.
+OSK-015,Tablas,Tabla 30 cortes,Tabla de sushi a elección según combinaciones disponibles.,"Proteínas, verduras y envolturas a elección","$16,000",sí,,La carta no define cantidad de variedades ni reglas de selección por tabla. Confirmar antes de vender online.
+OSK-016,Tablas,Tabla 40 cortes,Tabla de sushi a elección según combinaciones disponibles.,"Proteínas, verduras y envolturas a elección","$21,000",sí,,La carta no define cantidad de variedades ni reglas de selección por tabla. Confirmar antes de vender online.
+OSK-017,Tablas,Tabla 50 cortes,Tabla de sushi a elección según combinaciones disponibles.,"Proteínas, verduras y envolturas a elección","$25,000",sí,,La carta no define cantidad de variedades ni reglas de selección por tabla. Confirmar antes de vender online.
+OSK-018,Para acompañar,Tery Panko,6 tiritas de pollo tempuradas en panko.,,"$5,000",sí,,
+OSK-019,Para acompañar,Ebi Furai,6 camarones ecuatorianos tempurados en panko.,,"$6,500",sí,,
+OSK-020,Para acompañar,Sushi Balls Mixto,"4 balls rellenos de pollo teriyaki, cebollín y queso crema, con arroz de sushi y envolturas mixtas de panko, queso crema, palta y nori apanado.",,"$12,000",sí,,
+OSK-021,Para acompañar,Handroll,Handroll.,,"$5,000",sí,,La carta no especifica relleno ni envoltura.
+OSK-022,Chaufan,Chaufan Pollo,"Proteína en aderezos orientales con huevo, cebollín y raíces chinas, mezclada con arroz salteado al wok.",Pollo,"$10,000",sí,,
+OSK-023,Chaufan,Chaufan Carne,"Proteína en aderezos orientales con huevo, cebollín y raíces chinas, mezclada con arroz salteado al wok.",Carne,"$12,000",sí,,
+OSK-024,Chaufan,Chaufan Camarón,"Proteína en aderezos orientales con huevo, cebollín y raíces chinas, mezclada con arroz salteado al wok.",Camarón,"$15,000",sí,,
+OSK-025,Chaufan,Chaufan Carne/Pollo,"Proteína en aderezos orientales con huevo, cebollín y raíces chinas, mezclada con arroz salteado al wok.",Carne/Pollo,"$14,000",sí,,
+OSK-026,Chaufan,Chaufan Carne/Pollo/Camarón,"Proteína en aderezos orientales con huevo, cebollín y raíces chinas, mezclada con arroz salteado al wok.",Carne/Pollo/Camarón,"$16,000",sí,,
+OSK-027,Chaumin,Chaumin Pollo,Tallarines salteados al wok en aderezos chinos con proteína a elección.,Pollo,"$10,000",sí,,
+OSK-028,Chaumin,Chaumin Carne,Tallarines salteados al wok en aderezos chinos con proteína a elección.,Carne,"$12,000",sí,,
+OSK-029,Chaumin,Chaumin Camarón,Tallarines salteados al wok en aderezos chinos con proteína a elección.,Camarón,"$15,000",sí,,
+OSK-030,Chaumin,Chaumin Carne/Pollo,Tallarines salteados al wok en aderezos chinos con proteína a elección.,Carne/Pollo,"$14,000",sí,,
+OSK-031,Chaumin,Chaumin Carne/Pollo/Camarón,Tallarines salteados al wok en aderezos chinos con proteína a elección.,Carne/Pollo/Camarón,"$16,000",sí,,
+OSK-032,Chaumin,Chaumin Carne Mongoliana,Tallarines salteados al wok en aderezos chinos con proteína a elección.,Carne Mongoliana,"$12,000",sí,,
+OSK-033,Chaumin,Chaumin Pollo Mongoliano,Tallarines salteados al wok en aderezos chinos con proteína a elección.,Pollo Mongoliano,"$10,000",sí,,
+OSK-034,Wok Especial,Chapsui Pollo,Plato al wok. La carta no detalla ingredientes adicionales.,,"$14,000",sí,,
+OSK-035,Wok Especial,Chapsui Carne,Plato al wok. La carta no detalla ingredientes adicionales.,,"$16,000",sí,,
+OSK-036,Wok Especial,Chapsui Camarón,Plato al wok. La carta no detalla ingredientes adicionales.,,"$20,000",sí,,
+OSK-037,Wok Especial,Chapsui 2 Carnes,Plato al wok. La carta no detalla ingredientes adicionales.,,"$18,000",sí,,
+OSK-038,Wok Especial,Chapsui 3 Carnes,Plato al wok. La carta no detalla ingredientes adicionales.,,"$20,000",sí,,
+OSK-039,Wok Especial,Carne Mongoliana,Plato al wok. La carta no detalla ingredientes adicionales.,,"$16,000",sí,,
+OSK-040,Wok Especial,Pollo Mongoliano,Plato al wok. La carta no detalla ingredientes adicionales.,,"$14,000",sí,,
+OSK-041,Wok Especial,Camarón Mongoliano,Plato al wok. La carta no detalla ingredientes adicionales.,,"$10,000",sí,,"Precio tal como figura en la imagen; confirmar, parece inusual frente a las otras variantes."
+OSK-042,Wok Especial,2 Carnes Mongoliano,Plato al wok. La carta no detalla ingredientes adicionales.,,"$10,000",sí,,"Precio tal como figura en la imagen; confirmar, parece inusual frente a las otras variantes."
+OSK-043,Sándwiches,Italiano,"Proteína a elección con palta y tomate, en pan ciabatta.",Proteína a elección,"$8,000",sí,,La carta no enumera las proteínas disponibles para sándwiches.
+OSK-044,Sándwiches,Luco,"Proteína a elección con queso fundido, en pan ciabatta.",Proteína a elección,"$8,000",sí,,La carta no enumera las proteínas disponibles para sándwiches.
+OSK-045,Sándwiches,Chacarero,"Proteína a elección con poroto verde, tomate y ají, en pan ciabatta.",Proteína a elección,"$8,000",sí,,La carta no enumera las proteínas disponibles para sándwiches.
+OSK-046,Sándwiches,A lo Pobre,"Proteína a elección con papas fritas, cebolla caramelizada y huevo, en pan ciabatta.",Proteína a elección,"$9,000",sí,,La carta no enumera las proteínas disponibles para sándwiches.
+OSK-047,Sándwiches,Carioca,"Proteína a elección con palta y queso fundido, en pan ciabatta.",Proteína a elección,"$9,000",sí,,La carta no enumera las proteínas disponibles para sándwiches.
+OSK-048,Sándwiches,Cheddar,"Proteína a elección con queso cheddar, pepinillo y cebolla caramelizada, en pan ciabatta.",Proteína a elección,"$9,000",sí,,La carta no enumera las proteínas disponibles para sándwiches.
+OSK-049,Sándwiches,Suizo,"Proteína a elección con queso fundido y champiñones salteados, en pan ciabatta.",Proteína a elección,"$9,000",sí,,La carta no enumera las proteínas disponibles para sándwiches.
+OSK-050,Sándwiches,Napolitano,"Proteína a elección con queso fundido, tomate, aceituna y orégano, en pan ciabatta.",Proteína a elección,"$9,000",sí,,La carta no enumera las proteínas disponibles para sándwiches.
+OSK-051,Sándwiches,Lukaso,"Proteína a elección con palta, tomate y papas fritas, en pan ciabatta.",Proteína a elección,"$10,000",sí,,La carta no enumera las proteínas disponibles para sándwiches.
+OSK-052,Sándwiches,Tortuga,"Vienesas con palta y tomate, en pan ciabatta.",,"$6,000",sí,,
+OSK-053,Para Picar,Chorrillana Pequeña,"Papas fritas con pollo, carne, chorizo, vienesa, pimientos, cebolla salteada y huevo.",Pequeña,"$12,000",sí,,
+OSK-054,Para Picar,Chorrillana Grande,"Papas fritas con pollo, carne, chorizo, vienesa, pimientos, cebolla salteada y huevo.",Grande,"$20,000",sí,,
+OSK-055,Para Picar,Pichanga Pequeña,"Papas fritas con pollo, carne, chorizo, vienesa, pimientos, cebolla salteada y queso.",Pequeña,"$12,000",sí,,
+OSK-056,Para Picar,Pichanga Grande,"Papas fritas con pollo, carne, chorizo, vienesa, pimientos, cebolla salteada y queso.",Grande,"$20,000",sí,,
+OSK-057,Para Picar,Salchipop Pequeña,Papas fritas con vienesas y tiras de pollo en panko.,Pequeña,"$14,000",sí,,
+OSK-058,Para Picar,Salchipop Grande,Papas fritas con vienesas y tiras de pollo en panko.,Grande,"$22,000",sí,,
+OSK-059,Para Picar,Chicken Pop Pequeña,Papas fritas con tiras de pollo en panko.,Pequeña,"$11,000",sí,,
+OSK-060,Para Picar,Chicken Pop Grande,Papas fritas con tiras de pollo en panko.,Grande,"$18,000",sí,,
+OSK-061,Para Picar,Salchipapas Pequeña,Papas fritas con trozos de vienesa.,Pequeña,"$8,000",sí,,
+OSK-062,Para Picar,Salchipapas Grande,Papas fritas con trozos de vienesa.,Grande,"$15,000",sí,,
+OSK-063,Promociones,Sushi Burger Pollo Furay + bebida en lata,Sushi burger pollo furay y una bebida en lata.,Bebida en lata a elección,"$10,000",sí,,Promoción vista en imagen; confirmar vigencia.
+OSK-064,Promociones,20 cortes en panko + bebida,"20 cortes de pollo, cebollín y queso crema en panko, más una bebida en lata.",Bebida en lata a elección,"$10,000",sí,,Promoción vista en imagen; confirmar vigencia.
+OSK-065,Promociones,40 cortes en panko + 2 bebidas,"20 cortes de pollo, 10 de camarón y 10 de kanikama; cebollín y queso crema, en panko. Incluye 2 bebidas.",2 bebidas en lata a elección,"$25,000",sí,,La imagen dice “2 bebida”; confirmar vigencia y tipos de bebida.
